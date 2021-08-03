@@ -394,7 +394,7 @@ height: 10px;
 }
 /* follow section styling */
 .follow .title::after{
-    content: "Social and Gaming";
+    content: "Social";
     width: auto;
     height: auto;
 }
