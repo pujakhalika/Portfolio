@@ -1,4 +1,6 @@
 # Portfolio
-Here my Portfolio by Puja Khalika 
+#### Here my Simple Portfolio by Puja Khalika Buana
 
-(Still on Developmemt) 
+Create using just HTML+CSS+Javascript
+
+(Still on Development) 
