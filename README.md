@@ -3,4 +3,4 @@
 
 Create using just HTML+CSS+Javascript
 
-(non updatead)
+(non updated website)
